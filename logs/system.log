@@ -1,0 +1,111 @@
+Jun 23 00:10:43 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 00:20:52 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 00:30:00 Ilaydas-MBP syslogd[349]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 23 00:30:00 Ilaydas-MBP syslogd[349]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 23 00:30:00 Ilaydas-MBP syslogd[349]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 23 00:30:00 Ilaydas-MBP syslogd[349]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Jun 23 00:30:00 Ilaydas-MBP syslogd[349]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 23 00:30:00 Ilaydas-MBP syslogd[349]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 23 00:30:00 Ilaydas-MBP syslogd[349]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 23 00:30:00 Ilaydas-MBP syslogd[349]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 23 00:30:00 Ilaydas-MBP syslogd[349]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 23 00:30:00 Ilaydas-MBP syslogd[349]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 23 00:30:00 Ilaydas-MBP syslogd[349]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Jun 23 00:30:00 Ilaydas-MBP syslogd[349]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 23 00:30:00 Ilaydas-MBP syslogd[349]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Jun 23 00:38:21 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 00:51:44 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 01:02:46 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 01:22:58 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 01:39:52 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 02:02:25 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 02:19:17 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 02:37:17 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 02:54:12 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 03:11:12 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 03:27:35 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 03:42:46 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 04:04:05 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 04:21:39 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 04:37:08 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 04:47:08 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 05:03:58 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 05:21:59 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 05:37:47 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 05:48:07 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 06:03:20 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 06:20:49 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 06:37:01 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 06:49:07 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 07:04:12 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 07:19:52 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 07:37:14 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 07:50:07 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 08:07:51 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 08:24:49 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 08:41:01 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 08:51:07 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 09:07:33 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 09:23:52 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 09:39:02 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 09:52:07 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 10:13:59 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 10:29:44 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 10:45:12 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 11:00:43 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 11:17:47 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 11:35:17 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 11:51:15 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 12:08:59 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 12:24:55 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 12:35:03 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 12:50:22 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 13:13:35 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 13:28:35 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 13:39:35 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 13:49:39 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 14:05:25 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 14:18:51 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 14:28:53 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 14:31:56 Ilaydas-MBP login[49676]: DEAD_PROCESS: 49676 ttys002
+Jun 23 14:31:57 Ilaydas-MBP login[49036]: DEAD_PROCESS: 49036 ttys001
+Jun 23 14:41:37 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 14:42:48 Ilaydas-MBP login[96331]: USER_PROCESS: 96331 ttys001
+Jun 23 14:43:29 Ilaydas-MBP login[96331]: DEAD_PROCESS: 96331 ttys001
+Jun 23 14:49:06 Ilaydas-MBP login[99866]: USER_PROCESS: 99866 ttys001
+Jun 23 14:49:46 Ilaydas-MBP login[716]: USER_PROCESS: 716 ttys002
+Jun 23 14:52:08 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 14:57:55 Ilaydas-MBP login[716]: DEAD_PROCESS: 716 ttys002
+Jun 23 15:07:39 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 15:19:51 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 15:30:17 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 15:41:40 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 15:51:54 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 16:05:22 Ilaydas-MBP syslogd[349]: ASL Sender Statistics
+Jun 23 16:15:47 Ilaydas-MBP syslogd[349]: ASL Sender Statistics

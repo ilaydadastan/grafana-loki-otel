@@ -1,0 +1,31 @@
+receivers:
+  otlp:
+    protocols:
+      http:
+      grpc:
+        endpoint: 0.0.0.0:4317
+  filelog:
+    include: ['/tmp/logs/system.log']
+    operators:
+      - type: regex_parser
+        regex: "^(?P<timestamp>\\w{3} \\d{1,2} \\d{2}:\\d{2}:\\d{2}) (?P<message>.*)$"
+       
+processors:
+  batch:
+
+exporters:
+  logging:
+    loglevel: debug
+  loki:
+    endpoint: "http://loki:3100/loki/api/v1/push"
+  otlp:
+    endpoint: tempo:4317
+    tls:
+      insecure: true
+
+service:
+  pipelines:
+    logs:
+      receivers: [otlp, filelog]
+      processors: [batch]
+      exporters: [loki]
